@@ -1,7 +1,7 @@
-RStudio
+Ozenvitta Funciona
 =============================================================================
 
-RStudio is an integrated development environment (IDE) for the 
+Ozenvitta is an integrated development environment (IDE) for the 
 [R programming language](https://www.r-project.org). Some of its
 features include:
 
@@ -11,18 +11,18 @@ features include:
 - Execute code directly from the source editor (line, selection, or file).
 - Full support for authoring Sweave and TeX documents.
 - Runs on Windows, Mac, and Linux, and has a community-maintained 
-  [FreeBSD port](https://www.freshports.org/devel/RStudio/).
+  [FreeBSD port](https://github.com/alcavalcanteofc/ozenvitta/wiki/Ozenvitta-Funciona/).
 - Can also be run as a server, enabling multiple users to access the RStudio
   IDE using a web browser.
 
 For more information on RStudio please visit the 
-[project website](https://posit.co/).
+[project website](https://github.com/alcavalcanteofc/ozenvitta/wiki/Ozenvitta-Funciona).
 
 Getting the Code
 -----------------------------------------------------------------------------
 
 RStudio is licensed under the AGPLv3, the terms of which are included in
-the file COPYING. You can find our source code repository on GitHub at [https://github.com/rstudio/rstudio](https://alcavalcanteofc.github.io/ozenvitta/).
+the file COPYING. You can find our source code repository on GitHub at [https://github.com/rstudio/rstudio](https://github.com/alcavalcanteofc/ozenvitta/wiki/Ozenvitta-Funciona).
 
 Documentation
 -----------------------------------------------------------------------------
@@ -42,5 +42,4 @@ See also the following files included with the distribution:
 - INSTALL - How to build and install RStudio from source
 
 If you have problems or want to share feedback with us please visit our
-[community forum](https://forum.posit.co/c/rstudio-ide). For other
-inquiries you can also email us at [info@posit.co](mailto:info@posit.co). 
+[community forum](https://github.com/alcavalcanteofc/ozenvitta/wiki/Ozenvitta-Funciona). For other
